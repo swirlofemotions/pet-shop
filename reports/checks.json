@@ -1,0 +1,21 @@
+{
+  "author": "Верниченко Иван",
+  "group": "ИВТ-5",
+  "htmlErrors": 0,
+  "brokenLocalLinks": [],
+  "responsive": "6 pages x 4 widths, no overflow",
+  "browser": "Integrated Chromium",
+  "functional": {
+    "toysFilter": 4,
+    "giftWrapping": 190,
+    "coupon": "LAPKI10",
+    "quantityPersisted": 2,
+    "subtotal": 2960,
+    "discount": 296,
+    "courier": 490,
+    "total": 3154,
+    "requiredFieldChecked": true,
+    "orderConfirmation": true,
+    "consoleErrors": 0
+  }
+}

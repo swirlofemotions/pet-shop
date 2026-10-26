@@ -1,0 +1,194 @@
+[
+  {
+    "page": "index",
+    "width": 320,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 305,
+    "viewport": 320
+  },
+  {
+    "page": "catalog",
+    "width": 320,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 305,
+    "viewport": 320
+  },
+  {
+    "page": "single",
+    "width": 320,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 305,
+    "viewport": 320
+  },
+  {
+    "page": "cart",
+    "width": 320,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 305,
+    "viewport": 320
+  },
+  {
+    "page": "checkout",
+    "width": 320,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 305,
+    "viewport": 320
+  },
+  {
+    "page": "information",
+    "width": 320,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 305,
+    "viewport": 320
+  },
+  {
+    "page": "index",
+    "width": 768,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 753,
+    "viewport": 768
+  },
+  {
+    "page": "catalog",
+    "width": 768,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 753,
+    "viewport": 768
+  },
+  {
+    "page": "single",
+    "width": 768,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 753,
+    "viewport": 768
+  },
+  {
+    "page": "cart",
+    "width": 768,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 753,
+    "viewport": 768
+  },
+  {
+    "page": "checkout",
+    "width": 768,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 753,
+    "viewport": 768
+  },
+  {
+    "page": "information",
+    "width": 768,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 753,
+    "viewport": 768
+  },
+  {
+    "page": "index",
+    "width": 1000,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 985,
+    "viewport": 1000
+  },
+  {
+    "page": "catalog",
+    "width": 1000,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 985,
+    "viewport": 1000
+  },
+  {
+    "page": "single",
+    "width": 1000,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 985,
+    "viewport": 1000
+  },
+  {
+    "page": "cart",
+    "width": 1000,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 985,
+    "viewport": 1000
+  },
+  {
+    "page": "checkout",
+    "width": 1000,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 985,
+    "viewport": 1000
+  },
+  {
+    "page": "information",
+    "width": 1000,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 985,
+    "viewport": 1000
+  },
+  {
+    "page": "index",
+    "width": 1280,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 1265,
+    "viewport": 1280
+  },
+  {
+    "page": "catalog",
+    "width": 1280,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 1265,
+    "viewport": 1280
+  },
+  {
+    "page": "single",
+    "width": 1280,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 1265,
+    "viewport": 1280
+  },
+  {
+    "page": "cart",
+    "width": 1280,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 1265,
+    "viewport": 1280
+  },
+  {
+    "page": "checkout",
+    "width": 1280,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 1265,
+    "viewport": 1280
+  },
+  {
+    "page": "information",
+    "width": 1280,
+    "author": true,
+    "oldAuthor": false,
+    "scrollWidth": 1265,
+    "viewport": 1280
+  }
+]

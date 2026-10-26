@@ -1,0 +1,17 @@
+{
+  "version": "26.10.18",
+  "messages": [
+    {
+      "type": "info",
+      "lastLine": 1,
+      "lastColumn": 2980,
+      "firstColumn": 2944,
+      "subType": "warning",
+      "message": "Article lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all articles.",
+      "extract": "</section><article class=\"container info-page\"><secti",
+      "hiliteStart": 10,
+      "hiliteLength": 37
+    }
+  ],
+  "language": "ru"
+}
